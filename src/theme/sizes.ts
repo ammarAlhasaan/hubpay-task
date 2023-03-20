@@ -1,19 +1,35 @@
-const colors = {
-  mono: {
-    black: "rgba(0, 0, 0, 1.0)",
-    white: "rgba(255, 255, 255, 1.0)",
+const sizeUnit: number = 16;
+
+const sizes = {
+  text: {
+    xs: sizeUnit / 4,
+    sm: sizeUnit * .75,
+    md: sizeUnit,
+    lg: sizeUnit * 2,
   },
-  brand: {
-    primary: "#771ac9",
-    secondary: "#7375fc",
-    accent: "#f5f5ff",
+  heading: {
+    xs: (sizeUnit * 2) / 4,
+    sm: (sizeUnit * 2) / 2,
+    md: (sizeUnit * 2),
+    lg: (sizeUnit * 2) * 2,
   },
-  blue: {
-    primary: "#2e80ed",
+  borderRadius: {
+    xs: sizeUnit / 4,
+    sm: sizeUnit / 2,
+    md: sizeUnit,
+    lg: sizeUnit * 2,
   },
-  gray: {
-    primary: "#687491",
-    secondary: "#9fa1ae",
+  spacing: {
+    xs: sizeUnit / 4,
+    sm: sizeUnit / 2,
+    md: sizeUnit,
+    lg: sizeUnit * 2,
+    xl: sizeUnit * 4,
   },
+  inputHeight: {
+    sm: 20,
+    md: 40,
+    lg: 80,
+  }
 };
-export default colors;
+export default sizes;

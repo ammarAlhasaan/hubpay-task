@@ -1,0 +1,1202 @@
+{
+  "AED": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AE",
+    "end_rate": 1,
+    "flag": "ae.png",
+    "start_rate": 1
+  },
+  "AFN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AF",
+    "end_rate": 23.479796,
+    "flag": "af.png",
+    "start_rate": 23.479796
+  },
+  "ALL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AL",
+    "end_rate": 28.96776,
+    "flag": "al.png",
+    "start_rate": 28.96776
+  },
+  "AMD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AM",
+    "end_rate": 104.203118,
+    "flag": "am.png",
+    "start_rate": 104.203118
+  },
+  "AOA": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AO",
+    "end_rate": 137.439206,
+    "flag": "ao.png",
+    "start_rate": 137.439206
+  },
+  "ARS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AR",
+    "end_rate": 54.480628,
+    "flag": "ar.png",
+    "start_rate": 54.480628
+  },
+  "AUD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AU",
+    "end_rate": 0.406607,
+    "flag": "au.png",
+    "start_rate": 0.406607
+  },
+  "AWG": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AW",
+    "end_rate": 0.490075,
+    "flag": "aw.png",
+    "start_rate": 0.490075
+  },
+  "AZN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AZ",
+    "end_rate": 0.46393,
+    "flag": "az.png",
+    "start_rate": 0.46393
+  },
+  "BAM": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BA",
+    "end_rate": 0.493942,
+    "flag": "ba.png",
+    "start_rate": 0.493942
+  },
+  "BBD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BB",
+    "end_rate": 0.542053,
+    "flag": "bb.png",
+    "start_rate": 0.542053
+  },
+  "BDT": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BD",
+    "end_rate": 28.790973,
+    "flag": "bd.png",
+    "start_rate": 28.790973
+  },
+  "BGN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BG",
+    "end_rate": 0.496846,
+    "flag": "bg.png",
+    "start_rate": 0.496846
+  },
+  "BHD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BH",
+    "end_rate": 0.101274,
+    "flag": "bh.png",
+    "start_rate": 0.101274
+  },
+  "BIF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BI",
+    "end_rate": 558.292324,
+    "flag": "bi.png",
+    "start_rate": 558.292324
+  },
+  "BMD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BM",
+    "end_rate": 0.272264,
+    "flag": "bm.png",
+    "start_rate": 0.272264
+  },
+  "BND": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BN",
+    "end_rate": 0.360544,
+    "flag": "bn.png",
+    "start_rate": 0.360544
+  },
+  "BOB": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BO",
+    "end_rate": 1.854997,
+    "flag": "bo.png",
+    "start_rate": 1.854997
+  },
+  "BRL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BR",
+    "end_rate": 1.437392,
+    "flag": "br.png",
+    "start_rate": 1.437392
+  },
+  "BSD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BS",
+    "end_rate": 0.268463,
+    "flag": "bs.png",
+    "start_rate": 0.268463
+  },
+  "BTN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BT",
+    "end_rate": 22.170565,
+    "flag": "bt.png",
+    "start_rate": 22.170565
+  },
+  "BWP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BW",
+    "end_rate": 3.562757,
+    "flag": "bw.png",
+    "start_rate": 3.562757
+  },
+  "BYN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BY",
+    "end_rate": 0.677623,
+    "flag": "by.png",
+    "start_rate": 0.677623
+  },
+  "BZD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BZ",
+    "end_rate": 0.541119,
+    "flag": "bz.png",
+    "start_rate": 0.541119
+  },
+  "CAD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CA",
+    "end_rate": 0.374921,
+    "flag": "ca.png",
+    "start_rate": 0.374921
+  },
+  "CDF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CD",
+    "end_rate": 558.686051,
+    "flag": "cd.png",
+    "start_rate": 558.686051
+  },
+  "CHF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LI",
+    "end_rate": 0.251348,
+    "flag": "li.png",
+    "start_rate": 0.251348
+  },
+  "CLP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CL",
+    "end_rate": 221.852126,
+    "flag": "cl.png",
+    "start_rate": 221.852126
+  },
+  "CNY": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CN",
+    "end_rate": 1.875139,
+    "flag": "cn.png",
+    "start_rate": 1.875139
+  },
+  "COP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CO",
+    "end_rate": 1297.260632,
+    "flag": "co.png",
+    "start_rate": 1297.260632
+  },
+  "CRC": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CR",
+    "end_rate": 145.773242,
+    "flag": "cr.png",
+    "start_rate": 145.773242
+  },
+  "CUC": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CU",
+    "end_rate": 0.272264,
+    "flag": "cu.png",
+    "start_rate": 0.272264
+  },
+  "CVE": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CV",
+    "end_rate": 27.846427,
+    "flag": "cv.png",
+    "start_rate": 27.846427
+  },
+  "CZK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CZ",
+    "end_rate": 6.125409,
+    "flag": "cz.png",
+    "start_rate": 6.125409
+  },
+  "DJF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "DJ",
+    "end_rate": 47.798066,
+    "flag": "dj.png",
+    "start_rate": 47.798066
+  },
+  "DKK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "DK",
+    "end_rate": 1.900486,
+    "flag": "dk.png",
+    "start_rate": 1.900486
+  },
+  "DOP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "DO",
+    "end_rate": 14.713703,
+    "flag": "do.png",
+    "start_rate": 14.713703
+  },
+  "DZD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "DZ",
+    "end_rate": 36.702177,
+    "flag": "dz.png",
+    "start_rate": 36.702177
+  },
+  "EGP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "EG",
+    "end_rate": 8.298114,
+    "flag": "eg.png",
+    "start_rate": 8.298114
+  },
+  "ERN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ER",
+    "end_rate": 4.083962,
+    "flag": "er.png",
+    "start_rate": 4.083962
+  },
+  "ETB": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ET",
+    "end_rate": 14.453826,
+    "flag": "et.png",
+    "start_rate": 14.453826
+  },
+  "EUR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AX",
+    "end_rate": 0.253219,
+    "flag": "ax.png",
+    "start_rate": 0.253219
+  },
+  "FJD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "FJ",
+    "end_rate": 0.601987,
+    "flag": "fj.png",
+    "start_rate": 0.601987
+  },
+  "FKP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "FK",
+    "end_rate": 0.223548,
+    "flag": "fk.png",
+    "start_rate": 0.223548
+  },
+  "GBP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GG",
+    "end_rate": 0.22358,
+    "flag": "gg.png",
+    "start_rate": 0.22358
+  },
+  "GEL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GE",
+    "end_rate": 0.701091,
+    "flag": "ge.png",
+    "start_rate": 0.701091
+  },
+  "GHS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GH",
+    "end_rate": 3.342278,
+    "flag": "gh.png",
+    "start_rate": 3.342278
+  },
+  "GIP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GI",
+    "end_rate": 0.223548,
+    "flag": "gi.png",
+    "start_rate": 0.223548
+  },
+  "GMD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GM",
+    "end_rate": 16.745292,
+    "flag": "gm.png",
+    "start_rate": 16.745292
+  },
+  "GNF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GN",
+    "end_rate": 2311.864624,
+    "flag": "gn.png",
+    "start_rate": 2311.864624
+  },
+  "GTQ": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GT",
+    "end_rate": 2.093912,
+    "flag": "gt.png",
+    "start_rate": 2.093912
+  },
+  "GYD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "GY",
+    "end_rate": 56.644977,
+    "flag": "gy.png",
+    "start_rate": 56.644977
+  },
+  "HKD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "HK",
+    "end_rate": 2.137287,
+    "flag": "hk.png",
+    "start_rate": 2.137287
+  },
+  "HNL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "HN",
+    "end_rate": 6.621166,
+    "flag": "hn.png",
+    "start_rate": 6.621166
+  },
+  "HRK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "HR",
+    "end_rate": 1.910824,
+    "flag": "hr.png",
+    "start_rate": 1.910824
+  },
+  "HTG": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "HT",
+    "end_rate": 41.489307,
+    "flag": "ht.png",
+    "start_rate": 41.489307
+  },
+  "HUF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "HU",
+    "end_rate": 101.543728,
+    "flag": "hu.png",
+    "start_rate": 101.543728
+  },
+  "IDR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ID",
+    "end_rate": 4185.788418,
+    "flag": "id.png",
+    "start_rate": 4185.788418
+  },
+  "INR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "IN",
+    "end_rate": 22.472817,
+    "flag": "in.png",
+    "start_rate": 22.472817
+  },
+  "IQD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "IQ",
+    "end_rate": 391.809786,
+    "flag": "iq.png",
+    "start_rate": 391.809786
+  },
+  "IRR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "IR",
+    "end_rate": 11503.158719,
+    "flag": "ir.png",
+    "start_rate": 11503.158719
+  },
+  "ISK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "IS",
+    "end_rate": 38.15792,
+    "flag": "is.png",
+    "start_rate": 38.15792
+  },
+  "JMD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "JM",
+    "end_rate": 40.726599,
+    "flag": "jm.png",
+    "start_rate": 40.726599
+  },
+  "JOD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "JO",
+    "end_rate": 0.193281,
+    "flag": "jo.png",
+    "start_rate": 0.193281
+  },
+  "JPY": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "JP",
+    "end_rate": 35.896672,
+    "flag": "jp.png",
+    "start_rate": 35.896672
+  },
+  "KES": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KE",
+    "end_rate": 34.629984,
+    "flag": "ke.png",
+    "start_rate": 34.629984
+  },
+  "KGS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KG",
+    "end_rate": 23.801433,
+    "flag": "kg.png",
+    "start_rate": 23.801433
+  },
+  "KHR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KH",
+    "end_rate": 1088.753375,
+    "flag": "kh.png",
+    "start_rate": 1088.753375
+  },
+  "KMF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KM",
+    "end_rate": 125.715334,
+    "flag": "km.png",
+    "start_rate": 125.715334
+  },
+  "KPW": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KP",
+    "end_rate": 245.037685,
+    "flag": "kp.png",
+    "start_rate": 245.037685
+  },
+  "KRW": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KR",
+    "end_rate": 356.325758,
+    "flag": "kr.png",
+    "start_rate": 356.325758
+  },
+  "KWD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KW",
+    "end_rate": 0.083547,
+    "flag": "kw.png",
+    "start_rate": 0.083547
+  },
+  "KYD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KY",
+    "end_rate": 0.223711,
+    "flag": "ky.png",
+    "start_rate": 0.223711
+  },
+  "KZT": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "KZ",
+    "end_rate": 123.053629,
+    "flag": "kz.png",
+    "start_rate": 123.053629
+  },
+  "LAK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LA",
+    "end_rate": 4531.800176,
+    "flag": "la.png",
+    "start_rate": 4531.800176
+  },
+  "LBP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LB",
+    "end_rate": 4029.549228,
+    "flag": "lb.png",
+    "start_rate": 4029.549228
+  },
+  "LKR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LK",
+    "end_rate": 91.009781,
+    "flag": "lk.png",
+    "start_rate": 91.009781
+  },
+  "LRD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LR",
+    "end_rate": 43.848239,
+    "flag": "lr.png",
+    "start_rate": 43.848239
+  },
+  "LSL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LS",
+    "end_rate": 5.015209,
+    "flag": "ls.png",
+    "start_rate": 5.015209
+  },
+  "LYD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "LY",
+    "end_rate": 1.294584,
+    "flag": "ly.png",
+    "start_rate": 1.294584
+  },
+  "MAD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MA",
+    "end_rate": 2.780173,
+    "flag": "ma.png",
+    "start_rate": 2.780173
+  },
+  "MDL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MD",
+    "end_rate": 5.006599,
+    "flag": "md.png",
+    "start_rate": 5.006599
+  },
+  "MGA": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MG",
+    "end_rate": 1153.911893,
+    "flag": "mg.png",
+    "start_rate": 1153.911893
+  },
+  "MKD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MK",
+    "end_rate": 15.561016,
+    "flag": "mk.png",
+    "start_rate": 15.561016
+  },
+  "MMK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MM",
+    "end_rate": 563.747456,
+    "flag": "mm.png",
+    "start_rate": 563.747456
+  },
+  "MNT": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MN",
+    "end_rate": 961.732172,
+    "flag": "mn.png",
+    "start_rate": 961.732172
+  },
+  "MOP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MO",
+    "end_rate": 2.170637,
+    "flag": "mo.png",
+    "start_rate": 2.170637
+  },
+  "MRO": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MR",
+    "end_rate": 97.19824,
+    "flag": "mr.png",
+    "start_rate": 97.19824
+  },
+  "MUR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MU",
+    "end_rate": 12.523795,
+    "flag": "mu.png",
+    "start_rate": 12.523795
+  },
+  "MVR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MV",
+    "end_rate": 4.193886,
+    "flag": "mv.png",
+    "start_rate": 4.193886
+  },
+  "MWK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MW",
+    "end_rate": 281.06556,
+    "flag": "mw.png",
+    "start_rate": 281.06556
+  },
+  "MXN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MX",
+    "end_rate": 5.149614,
+    "flag": "mx.png",
+    "start_rate": 5.149614
+  },
+  "MYR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MY",
+    "end_rate": 1.221242,
+    "flag": "my.png",
+    "start_rate": 1.221242
+  },
+  "MZN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "MZ",
+    "end_rate": 17.180881,
+    "flag": "mz.png",
+    "start_rate": 17.180881
+  },
+  "NAD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "NA",
+    "end_rate": 5.015208,
+    "flag": "na.png",
+    "start_rate": 5.015208
+  },
+  "NGN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "NG",
+    "end_rate": 125.361389,
+    "flag": "ng.png",
+    "start_rate": 125.361389
+  },
+  "NIO": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "NI",
+    "end_rate": 9.819237,
+    "flag": "ni.png",
+    "start_rate": 9.819237
+  },
+  "NOK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BV",
+    "end_rate": 2.913899,
+    "flag": "bv.png",
+    "start_rate": 2.913899
+  },
+  "NPR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "NP",
+    "end_rate": 35.473004,
+    "flag": "np.png",
+    "start_rate": 35.473004
+  },
+  "NZD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CK",
+    "end_rate": 0.434823,
+    "flag": "ck.png",
+    "start_rate": 0.434823
+  },
+  "OMR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "OM",
+    "end_rate": 0.104816,
+    "flag": "om.png",
+    "start_rate": 0.104816
+  },
+  "PEN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PE",
+    "end_rate": 1.017332,
+    "flag": "pe.png",
+    "start_rate": 1.017332
+  },
+  "PGK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PG",
+    "end_rate": 0.946061,
+    "flag": "pg.png",
+    "start_rate": 0.946061
+  },
+  "PHP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PH",
+    "end_rate": 14.899664,
+    "flag": "ph.png",
+    "start_rate": 14.899664
+  },
+  "PKR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PK",
+    "end_rate": 75.637725,
+    "flag": "pk.png",
+    "start_rate": 75.637725
+  },
+  "PLN": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PL",
+    "end_rate": 1.200236,
+    "flag": "pl.png",
+    "start_rate": 1.200236
+  },
+  "PYG": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PY",
+    "end_rate": 1935.814108,
+    "flag": "py.png",
+    "start_rate": 1935.814108
+  },
+  "QAR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "QA",
+    "end_rate": 0.991324,
+    "flag": "qa.png",
+    "start_rate": 0.991324
+  },
+  "RON": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "RO",
+    "end_rate": 1.256554,
+    "flag": "ro.png",
+    "start_rate": 1.256554
+  },
+  "RSD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "RS",
+    "end_rate": 29.947701,
+    "flag": "rs.png",
+    "start_rate": 29.947701
+  },
+  "RUB": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "RU",
+    "end_rate": 20.953547,
+    "flag": "ru.png",
+    "start_rate": 20.953547
+  },
+  "RWF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "RW",
+    "end_rate": 293.844712,
+    "flag": "rw.png",
+    "start_rate": 293.844712
+  },
+  "SAR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SA",
+    "end_rate": 1.022166,
+    "flag": "sa.png",
+    "start_rate": 1.022166
+  },
+  "SBD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SB",
+    "end_rate": 2.232611,
+    "flag": "sb.png",
+    "start_rate": 2.232611
+  },
+  "SCR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SC",
+    "end_rate": 3.785026,
+    "flag": "sc.png",
+    "start_rate": 3.785026
+  },
+  "SDG": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SD",
+    "end_rate": 161.58975,
+    "flag": "sd.png",
+    "start_rate": 161.58975
+  },
+  "SEK": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SE",
+    "end_rate": 2.896881,
+    "flag": "se.png",
+    "start_rate": 2.896881
+  },
+  "SGD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SG",
+    "end_rate": 0.365243,
+    "flag": "sg.png",
+    "start_rate": 0.365243
+  },
+  "SHP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SH",
+    "end_rate": 0.331277,
+    "flag": "sh.png",
+    "start_rate": 0.331277
+  },
+  "SLL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SL",
+    "end_rate": 5377.216253,
+    "flag": "sl.png",
+    "start_rate": 5377.216253
+  },
+  "SOS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SO",
+    "end_rate": 155.055408,
+    "flag": "so.png",
+    "start_rate": 155.055408
+  },
+  "SRD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SR",
+    "end_rate": 9.474656,
+    "flag": "sr.png",
+    "start_rate": 9.474656
+  },
+  "STD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ST",
+    "end_rate": 5635.317366,
+    "flag": "st.png",
+    "start_rate": 5635.317366
+  },
+  "SYP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SY",
+    "end_rate": 683.935996,
+    "flag": "sy.png",
+    "start_rate": 683.935996
+  },
+  "SZL": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "SZ",
+    "end_rate": 4.928813,
+    "flag": "sz.png",
+    "start_rate": 4.928813
+  },
+  "THB": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TH",
+    "end_rate": 9.277682,
+    "flag": "th.png",
+    "start_rate": 9.277682
+  },
+  "TJS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TJ",
+    "end_rate": 2.926173,
+    "flag": "tj.png",
+    "start_rate": 2.926173
+  },
+  "TMT": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TM",
+    "end_rate": 0.952924,
+    "flag": "tm.png",
+    "start_rate": 0.952924
+  },
+  "TND": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TN",
+    "end_rate": 0.851925,
+    "flag": "tn.png",
+    "start_rate": 0.851925
+  },
+  "TOP": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TO",
+    "end_rate": 0.642557,
+    "flag": "to.png",
+    "start_rate": 0.642557
+  },
+  "TRY": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TR",
+    "end_rate": 5.178709,
+    "flag": "tr.png",
+    "start_rate": 5.178709
+  },
+  "TTD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TT",
+    "end_rate": 1.821913,
+    "flag": "tt.png",
+    "start_rate": 1.821913
+  },
+  "TWD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TW",
+    "end_rate": 8.340277,
+    "flag": "tw.png",
+    "start_rate": 8.340277
+  },
+  "TZS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "TZ",
+    "end_rate": 628.198827,
+    "flag": "tz.png",
+    "start_rate": 628.198827
+  },
+  "UAH": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "UA",
+    "end_rate": 9.914702,
+    "flag": "ua.png",
+    "start_rate": 9.914702
+  },
+  "UGX": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "UG",
+    "end_rate": 1005.916189,
+    "flag": "ug.png",
+    "start_rate": 1005.916189
+  },
+  "USD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AS",
+    "end_rate": 0.272264,
+    "flag": "as.png",
+    "start_rate": 0.272264
+  },
+  "UYU": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "UY",
+    "end_rate": 10.619828,
+    "flag": "uy.png",
+    "start_rate": 10.619828
+  },
+  "UZS": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "UZ",
+    "end_rate": 3053.611008,
+    "flag": "uz.png",
+    "start_rate": 3053.611008
+  },
+  "VEF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "VE",
+    "end_rate": 655360.324929,
+    "flag": "ve.png",
+    "start_rate": 655360.324929
+  },
+  "VND": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "VN",
+    "end_rate": 6422.710341,
+    "flag": "vn.png",
+    "start_rate": 6422.710341
+  },
+  "VUV": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "VU",
+    "end_rate": 32.296508,
+    "flag": "vu.png",
+    "start_rate": 32.296508
+  },
+  "WST": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "WS",
+    "end_rate": 0.741668,
+    "flag": "ws.png",
+    "start_rate": 0.741668
+  },
+  "XAF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "CM",
+    "end_rate": 165.674371,
+    "flag": "cm.png",
+    "start_rate": 165.674371
+  },
+  "XCD": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "AI",
+    "end_rate": 0.735807,
+    "flag": "ai.png",
+    "start_rate": 0.735807
+  },
+  "XOF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "BJ",
+    "end_rate": 165.674371,
+    "flag": "bj.png",
+    "start_rate": 165.674371
+  },
+  "XPF": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "PF",
+    "end_rate": 30.561745,
+    "flag": "pf.png",
+    "start_rate": 30.561745
+  },
+  "YER": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "YE",
+    "end_rate": 68.148685,
+    "flag": "ye.png",
+    "start_rate": 68.148685
+  },
+  "ZAR": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ZA",
+    "end_rate": 5.11408,
+    "flag": "za.png",
+    "start_rate": 5.11408
+  },
+  "ZMW": {
+    "change": 0,
+    "change_pct": 0,
+    "countryCode": "ZM",
+    "end_rate": 5.510188,
+    "flag": "zm.png",
+    "start_rate": 5.510188
+  }
+}

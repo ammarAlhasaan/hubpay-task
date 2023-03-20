@@ -1,36 +1,63 @@
 import React from "react";
-import {Image, StyleSheet, Text, View} from "react-native";
+import {StyleSheet, Text, View} from "react-native";
 import sizes from "../../theme/sizes";
 import colors from "../../theme/colors";
+import {Feather} from "@expo/vector-icons";
 
-const SelectedCurrency = ({title, currency}: any) => {
+const TimeLine = ({fromCurrency, toCurrency, exchangeRate}: any) => {
   return (
-    <View style={styles.selectedCurrency}>
-      <Text style={styles.title}>{title}</Text>
-      <View style={styles.currencyDetails}>
-        <Image
-          style={styles.currencyImage}
-          source={{uri: `https://res.cloudinary.com/dng7cvpds/image/upload/v1679211841/flags/${currency.image}`}}
-        />
-        <Text style={styles.currencyName}>{currency.key}</Text>
+    <View style={{flexDirection: "row", marginVertical: sizes.spacing.sm, marginStart: sizes.spacing.md}}>
+      <View style={styles.dotes}/>
+      <View style={styles.grayBox}>
+        <View style={styles.exRateBox}>
+          <View style={{flexDirection: "row", alignItems: "flex-end",}}>
+            <Text style={[styles.mdValue, {fontWeight: "bold"}]}>{`1 `}</Text>
+            <Text style={styles.smValue}>{`${fromCurrency} = `}</Text>
+            <Text style={styles.mdValue}>{`${toCurrency} `}</Text>
+            <Text style={[styles.mdValue, {fontWeight: "bold"}]}>{`${exchangeRate}`}</Text>
+          </View>
+          <View style={styles.dropdown}>
+            <Text style={styles.dropdownValue}>Fees</Text>
+            <Feather name="chevron-down" size={20} color={colors.brand.primary}/>
+          </View>
+        </View>
+
       </View>
     </View>);
 };
 
-export default SelectedCurrency;
+export default TimeLine;
 const styles = StyleSheet.create({
-  selectedCurrency: {
-    height: sizes.inputHeight.lg,
-    width: 130,
-    backgroundColor: colors.brand.primary,
-    borderRadius: sizes.borderRadius.md,
-    marginRight: -sizes.spacing.sm,
-    zIndex: 2,
-    padding: sizes.spacing.md,
-    justifyContent: "space-between"
+  dotes: {
+    borderStyle: "dashed", borderWidth: 1, borderColor: colors.gray.primary, height: 70, width: 1,
   },
-  title: {fontSize: sizes.text.sm, color: colors.mono.white},
-  currencyDetails: {flexDirection: "row", gap: sizes.spacing.sm, alignItems: "flex-end"},
-  currencyImage: {width: 35, height: 20},
-  currencyName: {color: colors.mono.white, fontWeight: "600"},
+  grayBox: {
+    paddingVertical: sizes.spacing.sm,
+    paddingStart: sizes.spacing.md,
+    flex: 1
+  },
+  exRateBox: {
+    flexDirection: "row",
+    borderRadius: sizes.borderRadius.sm,
+    backgroundColor: colors.gray.accent,
+    flex: 1,
+    justifyContent: "space-between",
+    padding: sizes.spacing.md,
+    alignItems: "center"
+
+  },
+
+  smValue: {
+    fontSize: sizes.text.sm
+  },
+  mdValue: {
+    fontSize: sizes.text.sm
+  },
+  dropdown: {
+    flexDirection: "row",
+    alignItems: "center"
+  },
+  dropdownValue: {
+    color: colors.brand.primary
+  }
 });
