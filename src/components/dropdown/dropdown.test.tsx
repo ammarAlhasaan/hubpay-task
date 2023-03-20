@@ -4,6 +4,7 @@ import Dropdown from "./index";
 import {DropdownItemType} from "./type";
 
 const onPressMock = jest.fn();
+const onPressMockDropdown = jest.fn();
 
 const options: DropdownItemType[] = [
   {
@@ -54,12 +55,12 @@ describe("<Dropdown />", () => {
   it("clickable dropdown item", () => {
     render(<Dropdown
       options={options}
-      onSelect={onPressMock}
+      onSelect={onPressMockDropdown}
       triggerComponent={<Text>open dropdown</Text>}/>);
 
     fireEvent.press(screen.getByText('open dropdown'));
     fireEvent.press(screen.getByText('first option'));
-    expect(onPressMock).toHaveBeenCalledTimes(2);
+    expect(onPressMockDropdown).toHaveBeenCalledTimes(2);
   });
 
 });
