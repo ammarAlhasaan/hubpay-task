@@ -13,11 +13,17 @@ import {DropdownItemType} from "../../components/dropdown/type";
 
 
 const BASE_CURRENCY: DropdownItemType = {key: "AED", label: "AED", image: "ae.png"};
-
+const addDecimal = (num: any) => {
+  if (Number(num) % 1 !== 0) {
+    return num.toFixed(2);
+  }
+  return num;
+};
 const Home = () => {
-  const [sendAmount, setSendAmount] = useState("0");
+  const [inputChange, setInputChange] = useState({input: "", value: ""});
+  const [sendAmount, setSendAmount] = useState("");
   const [loading, setLoading] = useState(false);
-  const [receiveAmount, setReceiveAmount] = useState("0");
+  const [receiveAmount, setReceiveAmount] = useState("");
   const [selectedCurrency, setSelectedCurrency] = useState<DropdownItemType>({key: "", label: "", image: ""});
   const [exchangeRate, setExchangeRate] = useState("");
   const [rateDropdownOptions, setRateDropdownOptions] = useState<DropdownItemType[]>([{key: "", label: "", image: ""}]);
@@ -39,27 +45,29 @@ const Home = () => {
     if (!selectedCurrency?.key) {
       return;
     }
-    const val = Number(sendAmount) * Number(exchangeRate);
-    setReceiveAmount(val.toString());
-  }, [sendAmount]);
-
-  useEffect(() => {
-    if (!selectedCurrency?.key) {
-      return;
+    if (inputChange.input === "sendAmount") {
+      const val = Number(inputChange.value) * Number(exchangeRate);
+      setReceiveAmount(addDecimal(val)?.toString());
+    } else if (inputChange.input === "receiveAmount") {
+      const val = Number(inputChange.value) / Number(exchangeRate);
+      setSendAmount(addDecimal(val)?.toString());
     }
 
-    const val = Number(receiveAmount) / Number(exchangeRate);
-    setSendAmount(val.toString());
-  }, [receiveAmount]);
-
+  }, [inputChange]);
+  
   return (
     <View style={styles.container}>
       <View style={{flexDirection: "row"}}>
         <SelectedCurrency title="You send exactly" currency={BASE_CURRENCY}/>
         <Input
           style={styles.input}
-          onChangeText={setSendAmount}
+          onChangeText={(text) => {
+            setInputChange({input: "sendAmount", value: text});
+            setSendAmount(text);
+          }}
           value={sendAmount}
+          keyboardType="numeric"
+          placeholder="0.00"
         />
       </View>
       <TimeLine fromCurrency={BASE_CURRENCY.key} toCurrency={selectedCurrency.key} exchangeRate={exchangeRate}/>
@@ -71,8 +79,8 @@ const Home = () => {
             if (!rateData) {
               return;
             }
-            setSendAmount("0");
-            setReceiveAmount("0");
+            setSendAmount("");
+            setReceiveAmount("");
             const exchangeRateValue = rateData?.get(selectedItem?.key)?.end_rate;
             setExchangeRate(exchangeRateValue);
             setSelectedCurrency(selectedItem);
@@ -82,8 +90,13 @@ const Home = () => {
           }/>
         <Input
           style={styles.input}
-          onChangeText={setReceiveAmount}
+          onChangeText={(text) => {
+            setInputChange({input: "receiveAmount", value: text});
+            setReceiveAmount(text);
+          }}
           value={receiveAmount}
+          keyboardType="numeric"
+          placeholder="0.00"
         />
       </View>
 

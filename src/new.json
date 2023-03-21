@@ -7,14 +7,6 @@
     "flag": "ae.png",
     "start_rate": 1
   },
-  "AFN": {
-    "change": 0,
-    "change_pct": 0,
-    "countryCode": "AF",
-    "end_rate": 23.479796,
-    "flag": "af.png",
-    "start_rate": 23.479796
-  },
   "ALL": {
     "change": 0,
     "change_pct": 0,
